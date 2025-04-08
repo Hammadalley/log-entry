@@ -13,7 +13,7 @@ A modern web application for tracking and managing logs, built with React, Expre
 
 1. Clone the repository:
    ```bash
-   git clone [repository-url]
+   git clone https://github.com/Hammadalley/log-entry.git
    cd LogsTracker
    ```
 
