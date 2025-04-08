@@ -30,4 +30,4 @@ To start the development server:
 npm run dev
 ```
 
-This will start both the frontend and backend servers with hot reloading enabled.
+This will start both the frontend and backend servers with hot reloading enabled on http://localhost:5000
